@@ -1,2 +1,1 @@
-# Dev-Play-Ground
- This is Dev Projects.
+This folder contains projects developed using Python, including those that involve databases and APIs, as well as React.js projects.
