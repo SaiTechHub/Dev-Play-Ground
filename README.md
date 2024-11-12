@@ -8,7 +8,7 @@ This repository includes projects developed with:
 
 - **Python**: Used primarily for backend development, data processing, API requests, and database interactions.
 - **Flask / Django**: (Optional) Python web frameworks, if projects require a web server or API.
-- **SQL / NoSQL Databases**: Databases like SQLite, PostgreSQL, MongoDB, or others, used in database-focused projects.
+- **SQL / NoSQL Databases**: Databases like SQLite, MySQL, PostgreSQL, MongoDB, or others, used in database-focused projects.
 - **Requests**: A Python library used for API requests and handling HTTP connections.
 - **React.js**: A JavaScript library for building user interfaces, primarily in the front-end projects.
 - **Node.js and Express**: (Optional) Used in some full-stack projects for back-end handling with React.
@@ -21,3 +21,5 @@ To get started with these projects:
    ```bash
    Navigate to the project directory using cd project-repository.
    git clone https://github.com/SaiTechHub/Dev-Play-Ground
+
+#  Many Thanks! #
