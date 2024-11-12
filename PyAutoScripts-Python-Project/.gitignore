@@ -1,0 +1,40 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+*.sqlite3
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDEs
+.idea
+
+# Local Environment Configuation
+.env
+
+# Node.js / React
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+/.next
+/build/
+dist/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python distribution package
+*.egg
+*.egg-info
+dist/
+build/
