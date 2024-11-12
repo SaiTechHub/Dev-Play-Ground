@@ -24,3 +24,9 @@ You can install the required Python libraries with the following command:
 
 ```bash
 pip install pymysql loguru
+```
+
+1. **Clone the repository**:
+   ```bash
+   Navigate to the project directory using cd project-repository.
+   git clone https://github.com/SaiTechHub/Dev-Play-Ground/tree/main/ATM-Management-System-Python-Project
