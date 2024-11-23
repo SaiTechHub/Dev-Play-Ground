@@ -15,6 +15,11 @@ ENV/
 # IDEs
 .idea
 
+# files
+news.csv
+news.json
+system_cleaner.log
+
 # Node.js / React
 node_modules/
 npm-debug.log
